@@ -1,0 +1,31 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dat15061999/BogUseNodeJs.git"
+  },
+  "keywords": [
+    "blog",
+    "key",
+    "use",
+    "node",
+    "js"
+  ],
+  "author": "datpham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dat15061999/BogUseNodeJs/issues"
+  },
+  "homepage": "https://github.com/dat15061999/BogUseNodeJs#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
